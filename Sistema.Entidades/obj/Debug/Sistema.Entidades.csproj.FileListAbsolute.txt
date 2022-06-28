@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

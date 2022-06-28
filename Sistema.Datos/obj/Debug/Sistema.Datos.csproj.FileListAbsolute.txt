@@ -1,0 +1,18 @@
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb

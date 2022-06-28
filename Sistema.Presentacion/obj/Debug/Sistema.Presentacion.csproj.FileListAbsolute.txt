@@ -1,0 +1,102 @@
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\lucas\Desktop\Lucas\Desarrolla Sistemas en C# .Net - 4 capas con SQL Server\3. ARQUITECTURA DEL PROYECTO\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+F:\Lucas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.buscadorCategoria.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMarca.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmvVistaProveedor.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmTalle.resources
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+F:\Lucas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMarca.resources
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmTalle.resources
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\lucas\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb

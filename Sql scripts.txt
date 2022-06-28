@@ -1,0 +1,253 @@
+create database dbsistema
+use dbsistema
+--Tabla categoría
+create table categoria (
+	idcategoria integer primary key identity,
+	nombre varchar(50) not null unique,
+);
+
+--Tabla Marca
+create table marca(
+	idmarca integer primary key identity,
+	nombre varchar(50) not null unique,
+);
+
+go
+
+create table talle (
+	idtalle integer primary key identity,
+	nombre varchar(50) not null unique,
+);
+
+create table articulo (
+	idarticulo integer primary key identity,
+	idcategoria integer not null,
+	idmarca integer not null,
+	idtalle integer not null,
+	nombre varchar(100) not null unique,
+	codigo varchar(50)  not null,
+	preciocompra decimal(11,2) not null,
+	precioventa decimal(11,2) not null,
+	stock integer not null,
+	color varchar(50) not null,
+	FOREIGN KEY (idcategoria) REFERENCES categoria(idcategoria),
+	FOREIGN KEY (idtalle) REFERENCES talle(idtalle),
+	FOREIGN KEY (idmarca) REFERENCES marca(idmarca)
+
+);
+go
+
+--Procedimiento Listar
+create proc categoria_listar
+as
+select idcategoria as ID,nombre as Nombre
+from categoria
+order by idcategoria desc
+go
+
+--Procedimiento Insertar
+create proc categoria_insertar
+@nombre varchar(50)
+as
+insert into categoria (nombre) values (@nombre)
+go
+
+--Procedimiento Actualizar
+create proc categoria_actualizar
+@idcategoria int,
+@nombre varchar(50)
+as
+update categoria set nombre=@nombre
+where idcategoria=@idcategoria
+go
+
+--Procedimiento Eliminar
+create proc categoria_eliminar
+@idcategoria int
+as
+delete from categoria
+where idcategoria=@idcategoria
+go
+
+create proc Marca_Listar 
+as
+select idmarca as ID,nombre as Nombre From marca
+order by  idmarca desc
+go
+
+--Procedimiento Insertar
+create proc marca_insertar
+@nombre varchar(50)
+as
+insert into marca (nombre) values (@nombre)
+go
+
+--Procedimiento Actualizar
+create proc marca_actualizar
+@idmarca int,
+@nombre varchar(50)
+as
+update marca set nombre=@nombre
+where idmarca=@idmarca
+go
+--Procedimiento Eliminar
+create proc marca_eliminar
+@idmarca int
+as
+delete from marca where idmarca=@idmarca
+go
+-------------
+create proc talle_Listar 
+as
+select idtalle as ID,nombre as Nombre From talle
+order by  idtalle desc
+go
+
+--Procedimiento Insertar
+create proc talle_insertar
+@nombre varchar(50)
+as
+insert into talle (nombre) values (@nombre)
+go
+
+--Procedimiento Actualizar
+create proc talle_actualizar
+@idtalle int,
+@nombre varchar(50)
+as
+update talle set nombre=@nombre
+where idtalle=@idtalle
+go
+--Procedimiento Eliminar
+create proc talle_eliminar
+@idtalle int
+as
+delete from talle where idtalle=@idtalle
+go
+
+--Procedimiento Listar
+create proc articulo_listar
+as
+select a.idarticulo as ID,a.idcategoria,c.nombre as Categoria,a.idmarca,m.nombre as Marca,a.idtalle,
+t.nombre as Talle,a.nombre as Nombre,a.codigo as Codigo,a.preciocompra as PrecioCompra,a.precioventa as PrecioVenta,
+a.stock as Stock,a.color as Color
+from articulo a inner join categoria c on a.idcategoria =c.idcategoria
+inner join marca m on a.idmarca = m.idmarca
+inner join talle t on a. idtalle = t.idtalle
+order by a.idarticulo desc
+go
+
+
+--Procedimiento Insertar
+create proc articulo_insertar
+@idcategoria integer,
+@idmarca integer,
+@idtalle integer,
+@nombre varchar(100),
+@codigo varchar(50),
+@precio_Compra decimal(11,2),
+@precio_venta decimal(11,2),
+@stock integer,
+@color varchar(50)
+as
+insert into articulo (idcategoria, idmarca,idtalle,nombre,codigo,preciocompra,precioventa,stock,color)
+values (@idcategoria,@idmarca,@idtalle,@nombre,@codigo,@precio_Compra,@precio_venta,@stock,@color)
+go
+
+
+--Procedimiento Actualizar
+create proc articulo_actualizar
+@idarticulo integer,
+@idcategoria integer,
+@idmarca integer,
+@idtalle integer,
+@nombre varchar(100),
+@codigo varchar(50),
+@precio_Compra decimal(11,2),
+@precio_venta decimal(11,2),
+@stock integer,
+@color varchar(50)
+as
+update articulo set idcategoria=@idcategoria,idmarca=@idmarca,idtalle=@idtalle,
+nombre=@nombre,codigo=@codigo,preciocompra=@precio_Compra,precioventa=@precio_venta,stock=@stock,
+color=@color
+where idarticulo=@idarticulo
+go
+
+--Procedimiento Eliminar
+create proc articulo_eliminar
+@idarticulo integer
+as
+delete from articulo
+where idarticulo=@idarticulo
+go
+
+-- Procedimiento existe
+create proc articulo_existe
+@valor varchar(100),
+@existe bit output
+as
+if exists (select nombre from articulo where nombre = ltrim(rtrim(@valor)))
+	begin
+		set @existe=1
+	end
+else
+	begin
+		set @existe=0
+	end
+go
+
+ create proc Categoria_seleccionar
+as
+select idcategoria,nombre from categoria 
+go
+
+ create proc Marca_seleccionar
+as
+select idMarca,nombre from marca
+go
+
+create proc Talle_seleccionar
+as
+select idtalle,nombre from talle 
+go
+
+
+create proc categoria_existe
+@valor varchar(100),
+@existe bit output -- tipo bit
+as
+	if exists (select nombre from categoria where nombre = ltrim(rtrim(@valor)))
+		begin
+		 set @existe=1
+		end
+	else
+		begin
+		 set @existe=0
+		end
+
+create proc marca_existe
+@valor varchar(100),
+@existe bit output -- tipo bit
+as
+	if exists (select nombre from marca where nombre = ltrim(rtrim(@valor)))
+		begin
+		 set @existe=1
+		end
+	else
+		begin
+		 set @existe=0
+		end
+
+create proc talle_existe
+@valor varchar(100),
+@existe bit output -- tipo bit
+as
+	if exists (select nombre from talle where nombre = ltrim(rtrim(@valor)))
+		begin
+		 set @existe=1
+		end
+	else
+		begin
+		 set @existe=0
+		end
